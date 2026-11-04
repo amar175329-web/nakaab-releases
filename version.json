@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "releaseDate": "2026-11-04",
+  "releaseNotes": "Nakaab Milestone 2: Upgraded Mozilla GeckoView, Dual Fast and Tor Hidden Modes, Remote DNS through Tor, WebRTC & QUIC kill switches, and in-memory Burn Session.",
+  "downloadUrl": "https://github.com/amar175329-web/nakaab/releases/download/v1.1.0/nakaab-android-v1.1.0.apk",
+  "sha256": ""
+}
