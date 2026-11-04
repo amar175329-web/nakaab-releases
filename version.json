@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
+  "versionCode": 3,
+  "versionName": "1.1.1",
   "releaseDate": "2026-11-04",
-  "releaseNotes": "Nakaab Milestone 2: Upgraded Mozilla GeckoView 153, Dual Fast & Tor Hidden Modes, Dynamic SOCKS with Stream Isolation, Quad9 DoH, and in-memory amnesia.",
-  "downloadUrl": "https://github.com/amar175329-web/nakaab-releases/releases/download/v1.1.0-test/nakaab-v1.1.0-test.apk",
-  "sha256": "788013023b528e70909889aab115256c9ab2ece669802698d8c329bf3a60eef6"
+  "releaseNotes": "Nakaab v1.1.1: Added dedicated search button in address bar, fixed premature exit/close to home screen on search/back, improved IME keyboard actions, and added double-back to exit guard.",
+  "downloadUrl": "https://github.com/amar175329-web/nakaab-releases/releases/download/v1.1.1/nakaab-v1.1.1.apk",
+  "sha256": "03b450f138cf63f53b4f299a4afd35f2bd85191661096e7315ea7b0e3f28ae0f"
 }
