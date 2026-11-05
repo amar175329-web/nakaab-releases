@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.1",
-  "releaseDate": "2026-11-04",
-  "releaseNotes": "Nakaab v1.1.1: Added dedicated search button in address bar, fixed premature exit/close to home screen on search/back, improved IME keyboard actions, and added double-back to exit guard.",
-  "downloadUrl": "https://github.com/amar175329-web/nakaab-releases/releases/download/v1.1.1/nakaab-v1.1.1.apk",
-  "sha256": "03b450f138cf63f53b4f299a4afd35f2bd85191661096e7315ea7b0e3f28ae0f"
+  "versionCode": 4,
+  "versionName": "1.1.2",
+  "releaseDate": "2026-11-05",
+  "releaseNotes": "Nakaab v1.1.2: Local-only crash handler & diagnostic dialog, GeckoView ContentDelegate crash/kill resilience, largeHeap enabled, and TRR/ETP conflict fixes.",
+  "downloadUrl": "https://github.com/amar175329-web/nakaab-releases/releases/download/v1.1.2/nakaab-v1.1.2.apk",
+  "sha256": "a8a1c5dfcda54db32d664e76afe4c60e7ca853617704e11a8e17584c1129a657"
 }
